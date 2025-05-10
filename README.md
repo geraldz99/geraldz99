@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/geraldz99/geraldz99/refs/heads/main/github-header-image.png)
+<img align="center" src="https://raw.githubusercontent.com/geraldz99/geraldz99/refs/heads/main/github-header-image.png" alt="android" width="40" height="40"/>
 <h3 align="center">I don’t just write code — I craft solutions. 😎</h3>
 
 <h3 align="left">Languages and Tools:</h3>
