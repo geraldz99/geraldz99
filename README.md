@@ -1,4 +1,4 @@
-<img align="center" src="https://raw.githubusercontent.com/geraldz99/geraldz99/refs/heads/main/github-header-image.png" alt="android" width="500" height="500"/>
+<img align="center" src="https://raw.githubusercontent.com/geraldz99/geraldz99/refs/heads/main/github-header-image.png" alt="android" width="1000" height="500"/>
 <h3 align="center">I don’t just write code — I craft solutions. 😎</h3>
 
 <h3 align="left">Languages and Tools:</h3>
