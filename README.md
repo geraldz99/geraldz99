@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Geraldine Firdaus</h1>
+![Header](./your-header-image-name.png)
 <h3 align="center">I don’t just write code — I craft solutions. 😎</h3>
 
 <h3 align="left">Languages and Tools:</h3>
