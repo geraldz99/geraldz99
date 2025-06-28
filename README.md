@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/geraldz99/geraldz99/refs/heads/main/github-header-image.png" alt="Header" />
 </p>
-<h3 align="center">I don’t just write code — I craft solutions. 😎</h3>
+<h3 align="center">Beauty in simplicity is a shared idea in both art and code</h3>
 <p align="center">👋 Hi, I'm Geraldin Firdaus</p>
 
 I'm a passionate full-stack developer with experience in building web and mobile applications using technologies like **PHP (CodeIgniter, Laravel)**, **Node.js (Express.js, TypeScript)**, **Android (Kotlin, Java)**, and **Golang (Fiber)**. I'm also skilled in working with **MySQL** and **PostgreSQL** databases.
