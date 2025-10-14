@@ -4,9 +4,9 @@
 <h3 align="center">Beauty in simplicity is a shared idea in both art and code</h3>
 <p align="center">👋 Hi, I'm Geraldin Firdaus</p>
 
-I'm a passionate full-stack developer with experience in building web and mobile applications using technologies like **PHP (CodeIgniter, Laravel)**, **Node.js (Express.js, TypeScript)**, **Android (Kotlin, Java)**, and **Golang (Fiber)**. I'm also skilled in working with **MySQL** and **PostgreSQL** databases.
+I am an enthusiastic full-stack developer with experience in building web and mobile applications using technologies such as **PHP (CodeIgniter, Laravel), Node.js (Express.js, TypeScript), Android (Kotlin, Java), and Golang (Fiber)**. I am also skilled in working with **MySQL** and **PostgreSQL** databases.
 
-I love turning ideas into real, user-friendly digital products and constantly learning new tools and frameworks to improve my craft.
+I enjoy the process of turning ideas into tangible, user-friendly digital products, and I am always learning new tools and frameworks to enhance my skills.
 
 <hr>
 
